@@ -29,7 +29,7 @@ Many thanks to all the contributors who spent their time to create Katas and wri
  14. [M Farag](https://github.com/MoeFarag)
  
 ### More flavors
-Lookig for implementation in your technology? There are more flavors of the repository:
+Looking for implementation in your technology? There are more flavors of the repository:
 
  1. [TDD Katas in .NET Core](https://github.com/garora/TDD-Katas-NETCore)
  2. [TDD Katas in Java](https://github.com/garora/TDD-Katas-Java)
